@@ -1,0 +1,43 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #4abdac;
+}
+#projects {
+  background-color: #4abdac;
+}
+section {
+  padding-top: 5rem;
+}
+.jumbotron h1 {
+  padding-top: 2rem;
+}
+#contact {
+  background-color: #4abdac;
+}
+.gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
+}
+
+.kotak{
+margin-top: 80px;
+  margin-left: 100px;
+margin-right: 100px;
+  padding: 32px;
+  background-color: #f0c369;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  overflow: auto;
+  
+}
+.font{
+  font-size: 58px;
+}
+/* #gallery {
+  padding-bottom: 5rem;
+} */
+.card{
+  
+}
